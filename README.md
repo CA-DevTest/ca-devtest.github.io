@@ -1,4 +1,4 @@
-# Welcome to CA Release Automation community
+# Welcome to CA DevTest community
 
 This page describes how you can contribute to the CA DevTest community and steps to follow to release your community contribution.
 
